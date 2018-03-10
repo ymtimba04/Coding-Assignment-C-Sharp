@@ -1,0 +1,6 @@
+c:\users\yandisa\documents\visual studio 2015\Projects\Coding Assignment\Coding Assignment\bin\Debug\Coding Assignment.exe.config
+c:\users\yandisa\documents\visual studio 2015\Projects\Coding Assignment\Coding Assignment\bin\Debug\Coding Assignment.exe
+c:\users\yandisa\documents\visual studio 2015\Projects\Coding Assignment\Coding Assignment\bin\Debug\Coding Assignment.pdb
+c:\users\yandisa\documents\visual studio 2015\Projects\Coding Assignment\Coding Assignment\obj\Debug\Coding Assignment.csprojResolveAssemblyReference.cache
+c:\users\yandisa\documents\visual studio 2015\Projects\Coding Assignment\Coding Assignment\obj\Debug\Coding Assignment.exe
+c:\users\yandisa\documents\visual studio 2015\Projects\Coding Assignment\Coding Assignment\obj\Debug\Coding Assignment.pdb
